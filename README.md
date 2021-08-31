@@ -7,3 +7,4 @@ An app where users can see restaurants near them
 
 ## Screenshots
 ![screenshot](app1.jpg)
+![screenshot](app2.jpg)
