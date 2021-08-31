@@ -7,7 +7,7 @@ An app where users can see restaurants near them
 
 ## Screenshots
 <img
-src=“Screenshot_20210831-230410_Restaurant.jpg”
+src=“app1.jpg”
 raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
