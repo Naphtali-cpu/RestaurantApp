@@ -6,8 +6,12 @@ An app where users can see restaurants near them
 * Run emulator and there you have the application in our emulator!
 
 ## Screenshots
-x-special/nautilus-clipboard
-copy
-mtp://SAMSUNG_SAMSUNG_Android_R9HR40820PJ/Phone/DCIM/Screenshots/Screenshot_20210831-230410_Restaurant.jpg
+<img
+src=“Screenshot_20210831-230410_Restaurant.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
+
 mtp://SAMSUNG_SAMSUNG_Android_R9HR40820PJ/Phone/DCIM/Screenshots/Screenshot_20210831-230431_Restaurant.jpg
 
