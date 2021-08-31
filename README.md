@@ -1,3 +1,3 @@
 # Restaurant
-Android Curriculum progression where every branch adds a specific functionality to the app.
+An app where users can see restaurants near them
 ## Android Feature Project for the whole course
